@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">QuizzApplesson12</string>
+
+    // string for welcome message
+    <string name="welcome_message">Welcome buddy!</string>
+
+    // string for note message
+    <string name="note">Sorry bud, but this APP finds out whether you are on the right way or straight to hell (Androider Impostor).</string>
+
+    // string for question 1
+    <string name="q1">Question 1. Do you own an Iphone?</string>
+
+    // string for radio button 1 of question 1
+    <string name="rb1q1">Never ever</string>
+
+    // string for radio button 2 of question 1
+    <string name="rb2q1">I have no mobilephone, sorry.</string>
+
+    // string for radio button 3 of question 1
+    <string name="rb3q1">Yes I own one !</string>
+
+    // string for question 2
+    <string name="q2">Do you own a Mac?</string>
+
+    // string for radio button 1 of question 2
+    <string name="rb1q2">Never ever</string>
+
+    // string for radio button 2 of question 2
+    <string name="rb2q2">I have no computer, sorry</string>
+
+    // string for radio button 3 of question 2
+    <string name="rb3q2">Yes, I own one!</string>
+
+    // string for question 3
+    <string name="q3">What do you prefer a sunny or grey day?</string>
+
+    // string for radio button 1 of question 3
+    <string name="rb1q3">A sunny day, of course!</string>
+
+    // string for radio button 2 of question 3
+    <string name="rb2q3">I do not know</string>
+
+    // string for radio button 3 of question 3
+    <string name="rb3q3">A grey day!</string>
+
+    // string for question 4
+    <string name="q4">Do you have Android or Ios user friends?</string>
+
+    // string for radio button 1 of question 4
+    <string name="rb1q4">Only Android users friends</string>
+
+    // string for radio button 2 of question 4
+    <string name="rb2q4">Only iOS users friends</string>
+
+    // string for radio button 3 of question 4
+    <string name="rb3q4">I do not know</string>
+
+    // string for question 5
+    <string name="q5">Question 5. How much do you love Android?</string>
+
+    // string for radio button 1 of question 5
+    <string name="rb1q5">More than any other thing</string>
+
+    // string for radio button 2 of question 5
+    <string name="rb2q5">Not much</string>
+
+    // string for radio button 3 of question 5
+    <string name="rb3q5">I do not know</string>
+
+    // string for question 6
+    <string name="q6">Question 6. Whick is the best Operating System in the Universe?</string>
+    // string for the hint text
+    <string name="type_answer">Please write your answer here</string>
+    // string for correct answer to question 6
+    <string name="correct_answer">Android</string>
+
+    // strings for question 7 with checkboxes
+    <string name="q7">Question 7. Which of the following would you buy?</string>
+    <!--<string name="cbq7_1">Android Smartphone</string>--> I got errors using strings for checkboxes answers..
+    <!--<string name="cbq7_2">Android Learning</string>-->
+    <!--<string name="cbq7_3">Iphones</string>-->
+    <!--<string name="cbq7_4">Macs</string>-->
+
+    / string for question 8
+    <string name="q8">Question 8. With Which of the following images do you identify with?</string>
+
+    // string for the result message
+    <string name="tresult">Your result will be shown here once you submit your answers</string>
+
+   // string for the submit answers message
+    <string name="submit_answers">** Submit Answers **</string>
+
+</resources>
